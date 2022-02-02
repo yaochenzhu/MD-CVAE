@@ -3,7 +3,7 @@
  The codes are associated with the following paper:
  >**Mutually-Regularized Dual Collaborative Variational Auto-encoder for Recommendation Systems,**  
  >Yaochen Zhu and Zhenzhong Chen,  
- >The Web Conference (WWW) 2022.
+ >*The Web Conference (WWW) 2022.*
 
 
 ## Environment
